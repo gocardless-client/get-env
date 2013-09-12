@@ -1,0 +1,12 @@
+{
+  "name": "get-env",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gocardless-client/get-env.git"
+  },
+  "bugs": {
+    "url": "http://github.com/gocardless-client/get-env/issues"
+  },
+  "main": "get-env"
+}
